@@ -32,3 +32,14 @@ And for referrence purpose you can go through the SQL queries written in
 ```bash
 Database Management.sql
 ```
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Cetacean Blue | ![#000B4F](https://via.placeholder.com/10/000B4F?text=+) #000B4F |
+| Dark Cornflower Blue | ![#20368F](https://via.placeholder.com/10/20368F?text=+) #20368F |
+| Vista Blue | ![#829CD0](https://via.placeholder.com/10/829CD0?text=+) #829CD0 |
+| Bright Gray | ![#EBEBEB](https://via.placeholder.com/10/EBEBEB?text=+) #EBEBEB |
+| Dark Silver | ![#6D6D6D](https://via.placeholder.com/10/6D6D6D?text=+) #6D6D6D |
+| Dark Charcoal | ![#323232](https://via.placeholder.com/10/323232?text=+) #323232 |
