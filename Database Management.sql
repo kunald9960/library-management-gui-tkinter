@@ -1,0 +1,6 @@
+CREATE DATABASE mydata;
+CREATE table------ the queries you want to write------
+Instead of creating everything in command line prompt I have used Mysql, which is a great way to make tables and access their information.
+I have given ID and StudName primary key and everything as VARCHAR for simplicity.
+Remember to name the exact same variables in the program and while making table columns.
+If you came across any issues notify me :D, Happy learning.
