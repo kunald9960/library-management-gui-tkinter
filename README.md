@@ -30,7 +30,7 @@ Library Management.py
 And for referrence purpose you can go through the SQL queries written in
 
 ```bash
-Database Management.sql
+Database Management.txt
 ```
 
 ## Color Reference
