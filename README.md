@@ -9,9 +9,9 @@ To fetch information from the user and to perform various tasks on that informat
 • The application uses tuples and data structures to display the result of all the operations that are to be performed on the data.
 
 # Requirements
-• A code-editor for python(preferable VScode).
+• A code-editor for python (preferable VScode).
 
-• A Relational Database Management System to run the SQL queries(preferable MYSQL).
+• A Relational Database Management System to run the SQL queries (preferable MYSQL).
 
 # Using Python
 Installable Python kits, and information about using Python, are available at https://www.python.org/
