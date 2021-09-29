@@ -1,6 +1,6 @@
 # TKinter-GUI for Library Management System
 
-• This ‘Library Management System’ is a mini project for managing book details with member information in a GUI. This project aims at developing a library management system using the Python language that enables an organization to maintain its library.
+• The ‘Library Management System’ is a mini project for managing book details with member information in a GUI. This project aims at developing a library management system using the Python language that enables an organization to maintain its library.
 
 • The project demonstrates the creation of a Graphical User Interface, using the Tkinter Graphics library of Python.
 The application uses basic Python functions to generate menu options, text boxes, buttons, scroll bar, list and message boxes on the screen.
