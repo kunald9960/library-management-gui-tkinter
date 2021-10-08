@@ -32,6 +32,9 @@ And for referrence purpose you can go through the SQL queries written in
 ```bash
 Database Management.txt
 ```
+## Screenshot
+
+<img width="957" alt="GUI Window" src="https://user-images.githubusercontent.com/88197438/136564324-f25d7d2a-4093-4e1f-a458-c584466a7e7b.png">
 
 ## Color Reference
 
@@ -43,7 +46,3 @@ Database Management.txt
 | Bright Gray | ![#EBEBEB](https://via.placeholder.com/10/EBEBEB?text=+) #EBEBEB |
 | Dark Silver | ![#6D6D6D](https://via.placeholder.com/10/6D6D6D?text=+) #6D6D6D |
 | Dark Charcoal | ![#323232](https://via.placeholder.com/10/323232?text=+) #323232 |
-
-## Screenshots
-
-![App Screenshot](<img width="957" alt="GUI Window" src="https://user-images.githubusercontent.com/88197438/136564324-f25d7d2a-4093-4e1f-a458-c584466a7e7b.png">)
